@@ -1,0 +1,21 @@
+{
+  "name": "build_bower",
+  "version": "0.0.1",
+  "authors": [
+    "nancy <fengfirst@163.com>"
+  ],
+  "description": "custom bower package",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "boostarp.js",
+  "dependencies": {
+    "d3": "~3.4.6",
+    "jquery": "~2.1.0"
+  }
+}
